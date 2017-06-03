@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "mori9", "mori9\mori9.shproj", "{0ACAEF27-C32A-4820-A1D8-37C595DD2E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mori9.iOS", "iOS\mori9.iOS.csproj", "{CF40C6B0-33C2-4E59-A8F6-0392AF9CC6ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF40C6B0-33C2-4E59-A8F6-0392AF9CC6ED}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{CF40C6B0-33C2-4E59-A8F6-0392AF9CC6ED}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{CF40C6B0-33C2-4E59-A8F6-0392AF9CC6ED}.Release|iPhone.ActiveCfg = Release|iPhone
+		{CF40C6B0-33C2-4E59-A8F6-0392AF9CC6ED}.Release|iPhone.Build.0 = Release|iPhone
+		{CF40C6B0-33C2-4E59-A8F6-0392AF9CC6ED}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{CF40C6B0-33C2-4E59-A8F6-0392AF9CC6ED}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{CF40C6B0-33C2-4E59-A8F6-0392AF9CC6ED}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{CF40C6B0-33C2-4E59-A8F6-0392AF9CC6ED}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
