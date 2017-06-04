@@ -5,7 +5,7 @@ It has been customize from  https://github.com/awslabs/aws-sdk-net-samples
 
 # Prerequisites
 1. Create an AWS account
-2. Install Visual Studio 2017(include Xamarin platform) , I use for Mac
+2. Install Visual Studio 2017(include Xamarin platform) , I use Mac version
 
 
 # Step 1 Obtain AWS Credentials
