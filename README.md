@@ -7,6 +7,7 @@ It has been customize from  https://github.com/awslabs/aws-sdk-net-samples
 1. Create an AWS account
 2. Install Visual Studio 2017(include Xamarin platform) , I use for Mac
 
+
 # Step 1 Obtain AWS Credentials
 To make calls to AWS in your application, you must first obtain AWS credentials. You do this by using Amazon Cognito, an AWS service that allows your application to access the services in the SDK without having to embed your private AWS credentials in the application.
 
@@ -74,7 +75,8 @@ In order for your identity pool to access Amazon DynamoDB, you must modify the i
 
   6. Click Apply Policy.
 
-Step 5 Install the AWS Mobile SDK for .NET and Xamarin
+
+# Step 5 Install the AWS Mobile SDK for .NET and Xamarin
 
   In Visual Studio
 Right-click the Packages folder in the project, and then click Add Packages.
