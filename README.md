@@ -92,7 +92,8 @@ AWSSDK - Amazon DynamoDB
 That's it. Now you can run this project. Next step , I will use S3 to store image and keep ID in DynamoDB
 
 your grace,
-\mong
+
+mong
 
 # Ref
 
